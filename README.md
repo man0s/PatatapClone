@@ -2,6 +2,8 @@
 <p align="center">
    <img src="https://raw.githubusercontent.com/man0s/PatatapClone/master/Screenshot.png">
 </p>
+<p align="center"><b>Press any key, A to Z, and turn up speakers!</b></p>
+<br>
 <i>
 <p align="center">
   A simple Patatap clone built with HTML, CSS, <a href="https://jquery.com">jQuery</a>, <a href="http://paperjs.org">Paper.js</a> and <a href="https://howlerjs.com">howler.js</a>.
