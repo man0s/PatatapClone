@@ -1,6 +1,6 @@
 # PatatapClone
 <p align="center">
-   <img src="https://raw.githubusercontent.com/man0s/PatatapClone/master/Screenshot.PNG">
+   <img src="https://raw.githubusercontent.com/man0s/PatatapClone/master/Screenshot.png">
 </p>
 <i>
 <p align="center">
