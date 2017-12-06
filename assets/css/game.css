@@ -1,0 +1,30 @@
+body, html {
+	height: 100%;
+	margin: 0;
+	background: #232526;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+h1{
+	z-index: 1;
+	color: #D6D6D6;
+	font-family: sans-serif;
+	font-weight: 400;
+	font-size: 2em;
+	position: absolute;
+	top: 45%;
+	left: 50%;
+	text-align: center;
+    transform: translate(-50%, -50%);
+   	text-shadow: 2px 2px rgba(0,0,0,0.3); /*Adds shadow*/
+}
+
+
+canvas {
+	height: 99.6%;
+	width: 100%;
+	background: #232526;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
