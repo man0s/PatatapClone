@@ -4,7 +4,7 @@
 </p>
 <i>
 <p align="center">
-  A simple Patatap Cline built with HTML, CSS, <a href="https://jquery.com">jQuery</a>, <a href="http://paperjs.org">Paper.js</a> and <a href="https://howlerjs.com">howler.js</a>.
+  A simple Patatap clone built with HTML, CSS, <a href="https://jquery.com">jQuery</a>, <a href="http://paperjs.org">Paper.js</a> and <a href="https://howlerjs.com">howler.js</a>.
 </p>
 </i>
 <p align="center">You can check it out <a href="https://www.katefidis.ga/PatatapClone/">here</a>.</p>
